@@ -1,4 +1,8 @@
 # Coderefactor
+Correction
+1, The Search Engine Optimization link is functioning. Line 17 of index.html is linked to an ID at line 33. So I added id="search-engine-optimization" at line 33
+
+
 1, WHEN you view the source code
    THEN you find semantic HTML elements
 2, WHEN you view the structure of the HTML elements
